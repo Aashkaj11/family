@@ -1,0 +1,19 @@
+body{
+   color: crimson;
+   background-image: linear-gradient(0deg,teal,pink);
+font-size: x-large;
+   font-family: 'Felipa', cursive;
+}
+.name_of_object{
+    color:indigo;
+font: weight 1000px;
+}
+p{
+    color: darkviolet;
+    font: weight 1000px;
+}
+.heading{
+    width: 80%;
+    font-size: x-large;
+    font: weight 1000px;
+}
